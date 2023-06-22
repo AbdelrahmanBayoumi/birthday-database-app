@@ -1,4 +1,4 @@
-const SERVER_URL = '/api';
+const SERVER_URL = 'https://birthday.cyclic.app/api';
 /**
  * validate user token and get current uers info
  * @param {string} token
